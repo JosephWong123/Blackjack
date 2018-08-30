@@ -1,2 +1,5 @@
-# Blackjack
-Simple text-based Blackjack game. Includes a card counting feature to show the current running count when indicated.
+# Fun Projects
+Includes:
+-Text based Blackjack game which reveals the current running count when necessary (can support multiple players).
+-Password generator (can be set to generate with different lengths and strengths)
+
